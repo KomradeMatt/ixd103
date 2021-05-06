@@ -1,4 +1,4 @@
-# ixd103
-End of Year Portfolio site.
+IxD 103 Portfolio Webpage
+========================
 
 [Portfolio](https://komradematt.github.io/ixd103/index.html)
